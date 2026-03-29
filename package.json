@@ -1,0 +1,10 @@
+{
+  "name": "photoworld",
+  "version": "1.0.0",
+  "description": "Photo World — immersive 3D family photo gallery",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "cookie": "^0.6.0",
+    "jose": "^5.2.0"
+  }
+}
